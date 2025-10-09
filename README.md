@@ -6,8 +6,12 @@ Unreal Engine plugin containing data visualizations for The Laser Games
 This repo is broken up into two submodules and a folder:
 
 **/Frontend/**: Contains Javascript/D3-based scripts and HTML for displaying visualizations online and in-game
+
 **/Plugin/**: Contains the Unreal Engine 5 plugin intended for serializing data and displaying the frontend in-game
+
 **/wiki-assets/**: Images and other files for the wiki/documentation
+
+##
 
 Documentation for the frontend and plugin are located in the wiki of this repo.
 
