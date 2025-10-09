@@ -1,5 +1,5 @@
 # LaserGraph
-Unreal Engine plugin containing data visualizations for The Laser Games
+Unreal Engine plugin and web-based frontend to display player and game statistics from [The Laser Games](https://store.steampowered.com/app/3152120/The_Laser_Games/)
 
 ## Contents
 
