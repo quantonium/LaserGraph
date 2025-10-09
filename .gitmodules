@@ -1,6 +1,8 @@
 [submodule "Frontend"]
 	path = Frontend
 	url = https://github.com/quantonium/LaserGraphFrontend
+	branch = trunk
 [submodule "Plugin"]
 	path = Plugin
 	url = https://github.com/quantonium/LaserGraphPlugin
+	branch = trunk
