@@ -1,4 +1,4 @@
 [submodule "Frontend"]
 	path = Frontend
-	url = https://github.com/quantonium/LaserGraphFrontend
+	url = git@github.com:quantonium/LaserGraphFrontend.git
 	branch = trunk
