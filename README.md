@@ -3,6 +3,8 @@ Unreal Engine plugin and web-based frontend to display player and game statistic
 
 Page can be viewed at https://laserstats.quantonium.net.
 
+LaserGraph created by Andrew Herbert and Henry Dunn.
+
 ## Contents
 
 This repo is broken up into two submodules and a folder:
